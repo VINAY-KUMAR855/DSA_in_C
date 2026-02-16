@@ -1,0 +1,23 @@
+# Compiled files
+*.out
+*.exe
+*.o
+*.a
+
+# Debug files
+*.dSYM/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build folders (if you use one)
+build/
+bin/
+
+# VS Code (optional)
+.vscode/
+
+# Linux core dumps
+core
